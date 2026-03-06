@@ -7,15 +7,13 @@ export default function Home() {
           height: '10%',
           display: 'flex',
           alignItems: 'center',
-          justifyContent: 'center',
-          backgroundColor: '#1e40af',
-          color: '#ffffff',
+          backgroundColor: '#f5f5f5',
+          color: '#4d0000',
           padding: '0 20px',
-          textAlign: 'center',
         }}
       >
-        <h1 style={{ margin: 0, fontSize: '24px', fontWeight: '600' }}>
-          Support Association for Promoting Nationwide Education
+        <h1 style={{ margin: 0, fontSize: '24px', fontWeight: '600', width: '50%' }}>
+          <b>S</b>upport <b>A</b>ssociation for <b>P</b>romoting <b>N</b>ationwide <b>E</b>ducation
         </h1>
       </header>
 
@@ -27,7 +25,6 @@ export default function Home() {
           alignItems: 'center',
           justifyContent: 'center',
           overflow: 'hidden',
-          backgroundColor: '#f5f5f5',
         }}
       >
         <img

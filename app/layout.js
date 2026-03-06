@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Hello World App',
-  description: 'Hello World',
+  title: 'SAPNE - Support Association for Promoting Nationwide Education',
+  description: 'Support Association for Promoting Nationwide Education',
 }
 
 export default function RootLayout({ children }) {
