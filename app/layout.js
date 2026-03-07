@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'SAPNE - Support Association for Promoting Nationwide Education',
+  title: 'SAPNE',
   description: 'Support Association for Promoting Nationwide Education',
 }
 

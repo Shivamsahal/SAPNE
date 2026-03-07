@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <main style={{ display: 'flex', flexDirection: 'column', height: '100vh' }}>
+    <main style={{ display: 'flex', flexDirection: 'column', height: '97vh' }}>
       {/* Header Section - 10% height */}
       <header
         style={{
@@ -9,10 +9,10 @@ export default function Home() {
           alignItems: 'center',
           backgroundColor: '#f5f5f5',
           color: '#4d0000',
-          padding: '0 20px',
+          padding: '0 10px',
         }}
       >
-        <h1 style={{ margin: 0, fontSize: '24px', fontWeight: '600', width: '50%' }}>
+        <h1 style={{ margin: 0, fontSize: '24px', fontWeight: '60', width: '50%' }}>
           <b>S</b>upport <b>A</b>ssociation for <b>P</b>romoting <b>N</b>ationwide <b>E</b>ducation
         </h1>
       </header>
@@ -28,7 +28,7 @@ export default function Home() {
         }}
       >
         <img
-          src="/sapne-image.jpg"
+          src="/kids.jpg"
           alt="SAPNE NGO"
           style={{
             width: '100%',
